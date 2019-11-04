@@ -16,4 +16,3 @@ sklearn
 tpot
 virtualenv
 flask-cors
-grequests
